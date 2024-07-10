@@ -15,11 +15,16 @@
   "dependencies": {
     "@libsql/client": "^0.7.0",
     "@t3-oss/env-nextjs": "^0.10.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
     "drizzle-orm": "^0.31.4",
+    "lucide-react": "^0.407.0",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
     "server-only": "^0.0.1",
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
